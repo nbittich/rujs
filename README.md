@@ -5,4 +5,4 @@
 ## Usage
 
 - `cargo run`
-- `console.log("hello world")`
+- `console.log("hello world");`
